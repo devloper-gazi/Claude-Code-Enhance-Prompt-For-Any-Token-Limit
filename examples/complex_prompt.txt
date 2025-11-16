@@ -1,0 +1,1 @@
+Create a REST API for a task management system. It should support creating, reading, updating, and deleting tasks. Users should be able to assign tasks to team members, set due dates, add tags, and track completion status. Include authentication and proper error handling.
