@@ -1,0 +1,15 @@
+As an expert data scientist, please analyze the following dataset and provide insights:
+
+Dataset: Customer purchase history from an e-commerce platform
+
+Tasks:
+1. Identify key purchasing patterns
+2. Segment customers based on behavior
+3. Recommend products for cross-selling opportunities
+
+Output Requirements:
+- Detailed statistical analysis
+- Visualizations (describe the charts you would create)
+- Actionable business recommendations
+
+Please structure your response with clear sections and support your findings with data.
